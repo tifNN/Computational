@@ -8,6 +8,10 @@
  A dll of C/C++ basic financial functions for pedagogical purposes
  */
 
+
+/*test github*/
+ 
+
 #ifndef _MAFIN_H
 #define _MAFIN_H
 
